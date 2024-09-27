@@ -1,0 +1,11 @@
+
+baseURL = 'https://KunalMaverick.github.io/'
+languageCode = 'en-us'
+title = 'Maverick Den'
+
+[module]
+  [[module.imports]]
+    path = "github.com/hugo-sid/hugo-blog-awesome"
+
+[params]
+  goToTop = true
