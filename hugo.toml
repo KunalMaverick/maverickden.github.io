@@ -9,3 +9,20 @@ title = 'Maverick Den'
 
 [params]
   goToTop = true
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/KunalMaverick"
+
+[[params.socialIcons]]
+  name = "x"
+  url = "https://x.com/DeVere_Maverick"
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:kunalkishoremaverick@gmail.com"  # Replace with your actual email address
+
+[[params.socialIcons]]
+  name = "googlescholar"
+  url = "https://scholar.google.com/citations?user=RN5vKA8AAAAJ&hl=en"  # Replace with your Google Scholar ID
+

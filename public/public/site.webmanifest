@@ -1,11 +1,7 @@
 {
     "name": "Maverick Den",
     "short_name": "Maverick Den",
-<<<<<<< HEAD
-    "start_url": "http://localhost:1313/",
-=======
     "start_url": "https://KunalMaverick.github.io/",
->>>>>>> b9caccbb084b3d8d724059bb7829726056abe483
     "theme_color": "#434648",
     "background_color": "#ffffff",
     "display": "standalone",
